@@ -1,6 +1,6 @@
 
 <h2>Olá! Me Chamo Isaias... 👋🏼</h2>
-<h5>👨🏼‍🎓 - Engenharia de Controle e Automação IFG</h5>
+<h3>👨🏼‍🎓 - Engenharia de Controle e Automação IFG</h3>
 <div style="display:flex;justify-content: center;">
 <img src="incos/wMkRou.gif" alt="Alt Text" height=" 100px">
 </div>
