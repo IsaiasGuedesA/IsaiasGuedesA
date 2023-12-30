@@ -30,7 +30,7 @@
 </div>
 </div>
 
-<div style="display: flex;align-items: center;justify-content:center;">
+<div style="display:flex;align-items:center;justify-content:center;">
 <img src="incos/rick-and-morty-rick-sanchez.gif" alt="Alt Text" height=" 100px">'
 </div>
 </div>
