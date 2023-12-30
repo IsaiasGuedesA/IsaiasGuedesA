@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height= "40px"/>
 
 ## 🙋🏻‍♂️&nbsp; Contact
-<a href="linkedin.com/in/isaias-a-26a6161b4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25px"/></a>&nbsp;&nbsp;
+<a href="malito:linkedin.com/in/isaias-a-26a6161b4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25px"/></a>&nbsp;&nbsp;
 <a href="mailto:isaiasguedesdearaujo30@gmail.com"><img src="incos/gmail.png" height="25px" /></a>
 
 
