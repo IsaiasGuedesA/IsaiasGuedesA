@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá!! I'm Isaias Guedes.. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+<h1 align="left">Hi!! I'm Isaias Guedes.. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
 <h3>👨🏼‍🎓 - Engenharia de Controle e Automação IFG</h3>
 <img src="incos/rick-and-morty-rick-sanchez.gif" alt="Alt Text" height="200em" align="right" >
 
