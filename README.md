@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=HI!!+I'm+Isaias+Guedes!+%F0%9F%92%BB%F0%9F%96%90%F0%9F%8F%BC)](https://git.io/typing-svg)
 
-<h1 align="left">Hi!! I'm Isaias Guedes.. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+
 <h3>👨🏼‍🎓 - Engenharia de Controle e Automação IFG</h3>
 <img src="incos/rick-and-morty-rick-sanchez.gif" alt="Alt Text" height="200em" align="right" >
 
@@ -19,7 +20,7 @@
 
 ## 🙋🏻‍♂️&nbsp; Contact
  <a href = "mailto:isaiasguedesdearaujo30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/isaias-a-26a6161b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-a-26a6161b4)
 
 
 
